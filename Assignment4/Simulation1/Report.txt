@@ -1,0 +1,24 @@
+1. What is the minimum/maximum/average response time of all tasks?
+    For Task 1 :
+      Minimum Response Time = 0.5
+      Average Response Time = 0.676
+      Maximum Response Time = 1.5
+    For Task 2 :
+      Minimum Response Time = 1.5
+      Average Response Time = 1.7
+      Maximum Response Time = 2.0
+    For Task 3 :
+      Minimum Response Time = 1.0
+      Average Response Time = 1.967
+      Maximum Response Time = 3.5
+
+2. Is any task missing the deadline? Which task? Where?
+    No, none of the task miss deadline.
+
+3. Is the sporadic job meeting its deadline?
+    Yes, Sporadic job meets deadline.
+
+4. What is the response time for the sporadic job?
+    Minimum Response Time = 29
+    Average Response Time = 29
+    Maximum Response Time = 29

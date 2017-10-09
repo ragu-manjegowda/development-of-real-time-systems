@@ -1,0 +1,28 @@
+1. What is the minimum/maximum/average response time of all tasks?
+    For Task 1 :
+      Minimum Response Time = 0.5
+      Average Response Time = 0.5
+      Maximum Response Time = 0.5
+    For Task 2 :
+      Minimum Response Time = 1.5
+      Average Response Time = 1.84
+      Maximum Response Time = 2.0
+    For Task 3 :
+      Minimum Response Time = 1.0
+      Average Response Time = 1.9
+      Maximum Response Time = 3.0
+
+2. Is any task missing the deadline? Which task? Where?
+    None of the periodic task miss deadline. But Task 4, Sporadic Task misses
+      deadline at time 80.
+
+3. Is the sporadic job meeting its deadline?
+    No. Sporadic job misses deadline.
+
+4. What is the response time for the sporadic job?
+    Response time for sporadic job is 30. i.e., it starts at time 50 and ends
+      at time 80.
+
+5. Which scheduler is better is better in this example; EDF or RM?
+    In this case EDF scheduler is better, because with this scheduler sporadic
+      task does not miss deadline.
